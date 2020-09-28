@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &256846181662617898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 256846181662617901}
+  - component: {fileID: 256846181662617900}
+  - component: {fileID: 256846181662617903}
+  - component: {fileID: 8765618972774293788}
+  - component: {fileID: 273443908}
+  m_Layer: 0
+  m_Name: StageManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &256846181662617901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256846181662617898}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &256846181662617900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256846181662617898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4544d87804f359a4c91ad6daaf9cd158, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneStatus: {fileID: 11400000, guid: 1a92f0c82733f624292dfde3f537fa45, type: 2}
+  levelEndCanvas: {fileID: 0}
+  nextLevelButton: {fileID: 0}
+  isStageEnd: 0
+  isGemsExist: 0
+  normalGemsInLevel: 0
+  extraGemsInLevel: 0
+  scoreText: {fileID: 0}
+  triesText: {fileID: 0}
+--- !u!114 &256846181662617903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256846181662617898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310374e887feb5047991b6e58fc957a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shootButton: {fileID: 0}
+  shooter: {fileID: 0}
+  maxAngle: 0.6
+  minAngle: -0.6
+  smooth: 50
+  ballPrefab: {fileID: 6254708056110050454, guid: 0d482dc4a27f7774b87a9ea8db95a71d,
+    type: 3}
+  shootPoint: {fileID: 0}
+--- !u!114 &8765618972774293788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256846181662617898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc94acbb5dad7c42a83bce9dde7edea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelScore: 0
+  totalPointsInLevel: 0
+--- !u!114 &273443908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256846181662617898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eca6d1396159904b87eea0ea40dd142, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _scoreScript: {fileID: 8765618972774293788}
+  _slider: {fileID: 0}
+  minSliderValue: 0
+  maxSliderValue: 0
+  sliderSpeed: 0

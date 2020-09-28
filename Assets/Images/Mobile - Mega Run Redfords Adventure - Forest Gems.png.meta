@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: f62fb512d28578343940da32257813b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3225518433650583296
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_0
+  - first:
+      213: 1194193485250530966
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_1
+  - first:
+      213: -4336899572581158611
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_2
+  - first:
+      213: 4705890337998036177
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_3
+  - first:
+      213: 8273799434147039709
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_4
+  - first:
+      213: -1517337966806197201
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_5
+  - first:
+      213: 636744444680401413
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_6
+  - first:
+      213: -5059749647455305073
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_7
+  - first:
+      213: 8124926927791272461
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_8
+  - first:
+      213: 8835618656341972074
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_9
+  - first:
+      213: 9019136846145425609
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_10
+  - first:
+      213: -4994263915523186771
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_11
+  - first:
+      213: 139523753196692019
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_12
+  - first:
+      213: -1822739600901094097
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_13
+  - first:
+      213: 4072741412267364239
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_14
+  - first:
+      213: 2342264322499776351
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_15
+  - first:
+      213: 1988354086420070007
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_16
+  - first:
+      213: 1557850938563764575
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_17
+  - first:
+      213: 596241510503404115
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_18
+  - first:
+      213: -8452521308978206744
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_19
+  - first:
+      213: -1785725711270548127
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_20
+  - first:
+      213: 1549556839261786089
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_21
+  - first:
+      213: -7430805742475131705
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_22
+  - first:
+      213: -8074322860813891645
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_23
+  - first:
+      213: -8509294037012962250
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_24
+  - first:
+      213: 6366445407086989663
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_25
+  - first:
+      213: 1207527366376646973
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_26
+  - first:
+      213: 5376641633999530967
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_27
+  - first:
+      213: 3056474571757839401
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_28
+  - first:
+      213: -958985552215707869
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_29
+  - first:
+      213: 5353732600806986928
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_30
+  - first:
+      213: -1417945066048963060
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_31
+  - first:
+      213: -2771090055312004840
+    second: Mobile - Mega Run Redfords Adventure - Forest Gems_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 231
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a7360de753cc20800000000000000
+      internalID: 3225518433650583296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e8171d5a0a29010800000000000000
+      internalID: 1194193485250530966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b1cd01dc30d3c0800000000000000
+      internalID: -4336899572581158611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 231
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd05c545eae4140800000000000000
+      internalID: 4705890337998036177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 231
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd98927bfb072d270800000000000000
+      internalID: 8273799434147039709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 194
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9d4c882551fae0800000000000000
+      internalID: -1517337966806197201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 193
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f0e5e2bb26d800800000000000000
+      internalID: 636744444680401413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 193
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c40bd08828c9b0800000000000000
+      internalID: -5059749647455305073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 193
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02310d3ef981c070800000000000000
+      internalID: 8124926927791272461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 193
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64d316da5c6e9a70800000000000000
+      internalID: 8835618656341972074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 193
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c092271d296a2d70800000000000000
+      internalID: 9019136846145425609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 131
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf50b8fd6fc0bab0800000000000000
+      internalID: -4994263915523186771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a4034d10bfe100800000000000000
+      internalID: 139523753196692019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 131
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c0428df354b6e0800000000000000
+      internalID: -1822739600901094097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f08347cb8458830800000000000000
+      internalID: 4072741412267364239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 131
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8ba0ddf4618020800000000000000
+      internalID: 2342264322499776351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 100
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb3c0c18d089b10800000000000000
+      internalID: 1988354086420070007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 100
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512a1ebc299e9510800000000000000
+      internalID: 1557850938563764575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 100
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d5e9ae76464800800000000000000
+      internalID: 596241510503404115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 100
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72fe127ac92ba80800000000000000
+      internalID: -8452521308978206744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 100
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16def614de3d737e0800000000000000
+      internalID: -1785725711270548127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 100
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc9734cb1218510800000000000000
+      internalID: 1549556839261786089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c446dc1c8970e890800000000000000
+      internalID: -7430805742475131705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c74f5f332e32ff80800000000000000
+      internalID: -8074322860813891645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342e72582ae8e980800000000000000
+      internalID: -8509294037012962250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51565bed582a5850800000000000000
+      internalID: 6366445407086989663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 33
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396171fdbff1c010800000000000000
+      internalID: 1207527366376646973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2e17541bad9a40800000000000000
+      internalID: 5376641633999530967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 7
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e3aadd67ca6a20800000000000000
+      internalID: 3056474571757839401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 7
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f637f98bff0b2f0800000000000000
+      internalID: -958985552215707869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_30
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 7
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b457856f674c4a40800000000000000
+      internalID: 5353732600806986928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 7
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e322b9972725ce0800000000000000
+      internalID: -1417945066048963060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Mega Run Redfords Adventure - Forest Gems_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 7
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819a28cc64c1b89d0800000000000000
+      internalID: -2771090055312004840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
